@@ -1,6 +1,5 @@
 package regular.Arrays;
 
-import java.util.*;
 public class Buy_And_Sell_Stock {
     public static int buyandSellStock(int price[]){
         int buyPrice = Integer.MAX_VALUE;
